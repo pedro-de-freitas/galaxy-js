@@ -1,5 +1,7 @@
 import * as THREE from "three";
 
+// Testando contabilização de contribuições no GitHub
+
 const canvas = document.getElementById("galaxy");
 
 const scene = new THREE.Scene();
